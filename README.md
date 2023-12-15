@@ -19,7 +19,7 @@
 Follow these steps to ensure the code runs correctly
 
 [1] Open the sub-folder "File-TCP" in your IDE or type "cd file-tcp" in terminal to switch to it if in main folder
-[2] Create a new terminal in your IDE 
+[2] Create a new terminal in your IDE
 [3] Type "python server.py" to fire up the server first. Successful run will be indicated by a message
 [4] Repeat steps [1] and [2]
 [5] Type "python client.py" in the terminal to start the file transfer. Successful file transfer will be indicated by a message
