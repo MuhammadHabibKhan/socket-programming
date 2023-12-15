@@ -4,17 +4,19 @@
 
 ## Pre-Requisites:
 
--> Python 3
--> Pip
+1) Python 3
+2) Pip
+
+## Instructions
 
 ------------------------------------------------------------
 ### FILE TRANSFER - WITH ERROR CHECKING AND HANDLING
 ------------------------------------------------------------
 
--> The files for regular file transfer programs are stored in the sub-folder "File-TCP"
--> As the name suggests, it is made using TCP sockets
--> The test file is an mp4 file present in the sub-folder named "chamber.mp4"
--> The file will be stored in the same sub-folder as "received-chamber.mp4" after the transfer
+1) The files for regular file transfer programs are stored in the sub-folder "File-TCP"
+2) As the name suggests, it is made using TCP sockets
+3) The test file is an mp4 file present in the sub-folder named "chamber.mp4"
+4) The file will be stored in the same sub-folder as "received-chamber.mp4" after the transfer
 
 Follow these steps to ensure the code runs correctly
 
